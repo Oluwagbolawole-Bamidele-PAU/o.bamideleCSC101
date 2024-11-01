@@ -40,7 +40,7 @@ fn main(){
     println!("Total amount for all the items {}", total_amount);
 
     //Average
-    let _average = (total_amount) / (5);
+    let _average = (total_amount) / (10);
 
 
 }
